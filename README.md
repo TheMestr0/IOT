@@ -16,3 +16,12 @@ UBTECH AI Box: Integrated for adding AI capabilities. This platform provides the
 
 📖 Academic Framework & Protocols
 CS PUB IoT Labs: Followed as a technical reference for sensor interfacing, data acquisition protocols, and low-level communication strategies.
+
+
+الأداة,التصنيف,الوظيفة الأساسية في المشروع
+Circuito.io,الهاردوير,اختيار القطع الإلكترونية وتوليد مخطط التوصيل الآلي.
+Cirkit Designer,الهاردوير,رسم وتوثيق المخطط النهائي للدائرة بشكل احترافي.
+RemoteXY,التحكم,بناء واجهة أزرار ومؤشرات للتحكم عبر الموبايل.
+MIT App Inventor,التطبيقات,برمجة تطبيق أندرويد مخصص للتعامل مع بيانات النظام.
+AI Box (UBTECH),الذكاء الاصطناعي,دمج قدرات المعالجة الذكية والتعرف على الأنماط.
+CS PUB Lab 02,البرمجيات,مرجع برمجي لربط الحساسات ومعالجة بروتوكولات البيانات.
