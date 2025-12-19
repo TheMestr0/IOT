@@ -1,3 +1,8 @@
+# 🚀 NextGen IoT Ecosystem: From Circuit Design to AI Integration
+
+> **"A seamless fusion of hardware precision, mobile agility, and AI intelligence—built to redefine the boundaries of modern IoT interaction."**
+
+---
 ## 🛠 Tech Stack & Tools
 
 This project leverages a suite of professional tools for circuit design, mobile interface development, and AI integration.
