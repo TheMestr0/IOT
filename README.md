@@ -29,5 +29,5 @@ This project leverages a suite of professional tools for circuit design, mobile 
 | **Intelligence** | [AI Box](http://docs.ubtrobot.com/aibox/) | AI Integration |
 | **Reference** | [CS PUB](https://ocw.cs.pub.ro/courses/iot/labs/02) | IoT Protocols |
 
-الأداة,التصنيف,الوظيفة الأساسية في المشروع
+ا
 
